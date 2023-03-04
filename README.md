@@ -1,6 +1,6 @@
 # MusicMix | Project Submission Dicoding Android Pemula
 
-![Detail](https://user-images.githubusercontent.com/29684325/222872917-e318464e-ec8e-4af5-bbd9-3a940f6dfdca.png)
+![Detail](https://user-images.githubusercontent.com/29684325/222872952-35d9d06f-5853-44cc-878c-6beb2ee46d7f.png)
 
 Persyaratan yang telah dipenuhi :
 1. Menggunakan Recyclerview
