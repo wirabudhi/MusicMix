@@ -1,0 +1,405 @@
+<resources>
+    <string name="app_name">MusicMix</string>
+
+    <!--  Menambahkan string untuk item row music  -->
+    <string name="title_songs">Title Songs</string>
+    <string name="years">Years</string>
+    <string name="musician">Musician</string>
+
+    <!--  Menambahkan string untuk detail music  -->
+    <string name="album">Album</string>
+    <string name="genre">Genre</string>
+    <string name="duration">Duration</string>
+    <string name="lyrics">Lyrics</string>
+
+    <!--  Menambahkan string untuk about  -->
+    <string name="about">About</string>
+    <string name="title_about">ABOUT</string>
+    <string name="share">SHARE</string>
+    <string name="profile">I Putu Wira Budhi Guna Ariyasa</string>
+    <string name="email">wirbud1134@gmail.com</string>
+
+    <!--  Menambahkan array  -->
+    <string-array name="data_title">
+        <item>Bunga Tidur</item>
+        <item>Cahaya</item>
+        <item>Delusi</item>
+        <item>Here With Me</item>
+        <item>Interaksi</item>
+        <item>Kau Rumahku</item>
+        <item>Komang</item>
+        <item>Ku Kira Kau Rumah</item>
+        <item>Senja Diaksara Bintang</item>
+        <item>Until I Found You</item>
+    </string-array>
+
+    <string-array name="data_years">
+        <item>2014</item>
+        <item>2016</item>
+        <item>2018</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2020</item>
+        <item>2018</item>
+        <item>2021</item>
+    </string-array>
+
+    <string-array name="data_musician">
+        <item>Tulus</item>
+        <item>Tulus</item>
+        <item>Hal</item>
+        <item>D4vd</item>
+        <item>Tulus</item>
+        <item>Raissa Anggiani</item>
+        <item>Raim Laode</item>
+        <item>Amigdala</item>
+        <item>Rio Satrio</item>
+        <item>Stephen Sanchez</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/tulus_bungatidur</item>
+        <item>@drawable/tulus_cahaya</item>
+        <item>@drawable/hal</item>
+        <item>@drawable/davd</item>
+        <item>@drawable/tulus_interaksi</item>
+        <item>@drawable/raissa</item>
+        <item>@drawable/raim</item>
+        <item>@drawable/amigdala</item>
+        <item>@drawable/rio</item>
+        <item>@drawable/stephen</item>
+    </integer-array>
+
+    <string-array name="data_album">
+        <item>Gajah</item>
+        <item>Monokrom</item>
+        <item>Perspektif</item>
+        <item>I Love You Be My Valentine</item>
+        <item>Manusia</item>
+        <item>Kau Rumahku</item>
+        <item>Komang</item>
+        <item>Ku Kira Kau Rumah</item>
+        <item>Senja</item>
+        <item>I Love You Be My Valentine</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Indonesian Pop</item>
+        <item>Indonesian Pop</item>
+        <item>Indonesian Pop</item>
+        <item>Alternatif/Indie</item>
+        <item>Indonesian Pop</item>
+        <item>Indonesian Pop</item>
+        <item>Indonesian Indie</item>
+        <item>Indonesian Pop</item>
+        <item>Indonesian Pop</item>
+        <item>Alternatif/Indie</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>3:32</item>
+        <item>3:16</item>
+        <item>4:30</item>
+        <item>4:02</item>
+        <item>2:50</item>
+        <item>4:35</item>
+        <item>3:43</item>
+        <item>3:27</item>
+        <item>4:01</item>
+        <item>2:56</item>
+    </string-array>
+
+    <string-array name="data_lyrics">
+        <item>
+            Bekas gincu disudut bibir kiri\n
+            Didepan cermin sabtu pagi\n
+            Aku tak tau ini punya siapa\n
+            Cukup jauh dari mabuk rasanya\n
+            Dan ku tak bermimpi entahlah\n
+            Ini pertanda apa\n
+            Sering malu karena sujud\n
+            Hanya bila tertekan\n
+            Duhai pria yang mengaku ngaku dewasa\n
+            Konon kebal membeku\n
+            Didirikanpun tak mampu\n
+            Ini dia si jago pemalu\n
+            Bila kau pikir aku sekuat itu\n
+            Dua empat tujuh aku bahagia ho\n
+            Kau salah kawan.\n
+            Ku dilindungi dendangan.\n
+            Ini musikku\n
+            Dia pagar jarak pandangmu\n
+            Mustahil tak bercelah\n
+            Didepan cermin sabtu pagi\n
+            Aku bicara dengan pantun laguku\n
+            Bunga tidur bisa membawamu terkubur\n
+            Jauh dari sekedar akar\n
+            Hantui pikiran\n
+            Kadang ku jatuh cinta\n
+            Kadang naik si pitam\n
+            Kadang gelap malam\n
+            Kadang semua tuli\n
+            Kau salah kawan.\n
+            Ku dilindungi dendangan\n
+            Ini musikku\n
+            Dia pagar jarak pandangmu\n
+            Kau salah kawan.\n
+            Ku dilindungi dendangan\n
+            Ini musikku\n
+            Dia pagar jarak pandangmu.\n
+            Selama ku lihat engkau senang\n
+            Yang lainnya ku simpan sendiri\n
+        </item>
+        <item>
+            Ratusan hari ku mengenalmu\n
+            Ratusan alasan kamu berharga\n
+            Ratusan hari ku bersamamu\n
+            Ratusan alasan kamu cahaya\n
+            Semampuku kau akrab dengan senyum dan tawa\n
+            Semampuku tak lagi perlu kau takut cinta\n
+            Bila aku pegang kendali penuh pada cahaya\n
+            Aku pastikan jalanmu terang\n
+            Bila aku pegang kendali penuh pada cahaya\n
+            Aku pastikan jalanmu terang\n
+            Tak mudah lagi sendu mengganggu\n
+            Kau tahu cara buatku tertawa\n
+            Tak mudah kusut dalam kemelut\n
+            Kau tahu cara mengurai semua\n
+            Bila aku pegang kendali penuh pada cahaya\n
+            Aku pastikan jalanmu terang\n
+            Bila aku pegang kendali penuh pada cahaya\n
+            Aku pastikan jalanmu terang\n
+            Duhai cahaya terima aku\n
+            Aku ingin kau lihat yang kau punya\n
+            Aku ingin kau kembali bisa\n
+            Percaya pada diri dan mampumu\n
+        </item>
+        <item>
+            Aku jatuh cinta pada\n
+            Teman khayalanku\n
+            Sendiri yang aku ciptakan\n
+            Persetan dengan orang-orang\n
+            Yang menganggapku gila\n
+            Hadirmu slalu nyata\n
+            Bagiku\n
+            Pertama kali bertemu kamu tidur di sampingku\n
+            Wajah lugu mata yang terpejam sesuai tipeku\n
+            Tetiba kau terbangun tersenyum manis kepadaku\n
+            Semenjak di titik itu kamu selalu mengikutiku\n
+            Hari demi hari seperti pertunjukan di televisi\n
+            Kamu mulai ambil bagian peran ke dalam memori\n
+            Aku tahu kamu hanyalah seseorang dari imaji\n
+            Namun perlahan logika terbutakan nurani yang berkata bahwa\n
+            Aku jatuh cinta pada\n
+            Teman khayalanku\n
+            Sendiri yang aku ciptakan\n
+            Persetan dengan orang-orang\n
+            Yang menganggapku gila\n
+            Hadirmu slalu nyata\n
+            Bagiku\n
+            Dan aku jatuh cinta pada\n
+            Teman khayalanku\n
+            Sendiri yang aku ciptakan\n
+            Persetan dengan orang-orang\n
+            Yang menganggapku gila\n
+            Hadirmu slalu nyata\n
+            Bagiku
+        </item>
+        <item>
+            Watch the sunrise along the coast\n
+            As we\'re both getting old\n
+            I can\'t describe what I\'m feeling\n
+            And all I know is we\'re going home\n
+            So please don\'t let me go, oh\n
+            Don\'t let me go, oh-oh-oh\n
+            And if it\'s right\n
+            I don\'t care how long it takes\n
+            As long as I\'m with you\n
+            I\'ve got a smile on my face\n
+            Save your tears, it\'ll be okay\n
+            All I know is you\'re here with me\n
+            Oh, oh, oh, oh-oh-oh-oh-oh\n
+            Watch the sunrise as we\'re getting old, oh-oh\n
+            I can\'t describe, whoa-oh\n
+            I wish I could live through every memory again\n
+            Just one more time before we float off in the wind\n
+            And all the time we spent\n
+            Waiting for the light to take us in\n
+            Have been the greatest moments of my life\n
+            I don\'t care how long it takes\n
+            As long as I\'m with you, I\'ve got a smile on my face\n
+            Save your tears, it\'ll be okay, ay, ay, ay, ay, ay-ay-ay-ay\n
+            Yeah, if with me\n
+            Oh, oh, oh, oh-oh-oh-oh-oh\n
+            I can\'t describe, oh, oh\n
+        </item>
+        <item>
+            Manalah kutahu datang hari ini\n
+            Hari di mana ku melihat dia\n
+            Yang tak aku bidik, yang tak aku cari\n
+            Duga benih patah hati lagi, tahu begini\n
+            Itu yang kupilih\n
+            (Jika bisa kuhindari garis interaksi)\n
+            Itu yang kupilih\n
+            Ingin bawanya ke tempat-tempat indah\n
+            Tipikal klise ingin tahu pikirnya\n
+            Entah ini ingin, entah ini sayang\n
+            Si hati rapuh tantang wahana, oh, lagi-lagi\n
+            oasis sendu\n
+            Itu yang kupilih\n
+            (Aku yang tak kuasa mengendalikan hati) kenali hati\n
+            Tak semua kupilih\n
+            Alam dan s\'luruh energinya\n
+            Apa dalam ciptanya ada aku?\n
+            Bila bukan untuk aku\n
+            Hindariku dari patah hati itu\n
+            Jika dia memang bisa untukku\n
+            Sini, dekat dan dekatlah\n
+            Dan jika dia memang bukan untukku\n
+            Tolong, reda dan redalah\n
+        </item>
+        <item>
+            Bagaikan sungai yang tak punya malu\n
+            Mengalir meskipun terancam surut\n
+            Lalu (hmm), kakimu melangkah ke rumahku\n
+            Setengah melirik, mencoba rayu\n
+            Apa yang kau inginkan\n
+            Dari senyumku, ya tuan?\n
+            Gemar sekali kau lukiskan bintang untukku\n
+            Sungguh lihai tanganmu menata kembali hati\n
+            Yang hampir mati\n
+            \'Kan ku letakkan hangat di tengah dekap kita\n
+            Jangan biarkan ku pulang\n
+            Ke rumah yang bukan engkau\n
+            Bicarakan tentang seisi dunia\n
+            Perlahan mendekat, bisikkan cinta\n
+            Membuatku terlena\n
+            Ke dalam pesona sukma yang begitu indah\n
+            Apa yang kau inginkan\n
+            Dari senyumku, ya tuan?\n
+            Ohh\n
+            Gemar sekali kau lukiskan bintang untukku\n
+            Sungguh lihai tanganmu menata kembali hati\n
+            Yang hampir mati\n
+            \'Kan ku letakkan hangat di tengah dekap kita\n
+            Jangan biarkan ku pulang\n
+            Ke rumah yang bukan engkau\n
+            Jika mampu ku menjelajahi langit\n
+            \'Kan ku petik pelangi \'tuk warnai harimu\n
+            Jangan khawatir, masih ada aku\n
+            Jangan khawatir, masih ada aku\n
+            Gemas sekali kau lukiskan bintang untukku\n
+            Sungguh lihai tanganmu menata kembali hati\n
+            Yang hampir mati\n
+            \'Kan ku letakkan hangat di tengah dekap kita\n
+            \'Kan aku persilahkan kau menetap di sini\n
+        </item>
+        <item>
+            Dari kejauhan tergambar cerita tentang kita\n
+            Terpisah jarak dan waktu\n
+            Ingin kuungkapkan rinduku lewat kata indah\n
+            Tak cukup untuk dirimu\n
+            Sebab kau terlalu indah dari sekedar kata\n
+            Dunia berhenti sejenak menikmati indahmu\n
+            Dan apabila tak bersamamu\n
+            Ku pastikan kujalani dunia tak seindah kemarin\n
+            Sederhana tertawamu sudah cukup\n
+            Lengkapi sempurnanya hidup bersamamu\n
+            Jika hari kulalui tanpa hawamu\n
+            Percuma senyumku dengan dia oh\n
+            Dan apabila tak bersamamu\n
+            Ku pastikan kujalani dunia tak seindah kemarin\n
+            Sederhana tertawamu sudah cukup\n
+            Lengkapi sempurnanya hidup bersamamu\n
+            Apabila tak bersamamu\n
+            Ku pastikan kujalani dunia tak seindah kemarin\n
+            Sederhana tertawamu sudah cukup\n
+            Lengkapi sempurnanya (sempurnanya)\n
+            Hidup bersamamu\n
+            Hu hu hu\n
+            Sebab kau terlalu indah dari sekedar kata\n
+            Dunia berhenti sejenak menikmati indahmu\n
+        </item>
+        <item>
+            Kau datang tak kala sinar senjaku telah redup\n
+            Dan pamit ketika purnamaku penuh seutuhnya\n
+            Kau yang singgah tapi tak sungguh\n
+            Kau yang singgah tapi tak sungguh\n
+            Kukira kau rumah\n
+            Nyatanya kau cuma aku sewa\n
+            Dari tubuh seorang perempuan\n
+            Yang memintamu untuk pulang\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kukira kau rumah\n
+            Nyatanya kau cuma aku sewa\n
+            Dari tubuh seorang perempuan\n
+            Yang memintamu untuk pulang\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+            Kau bukan rumah\n
+        </item>
+        <item>
+            Hari ini terasa berbeda\n
+            Langit seperti tak mampu menahan senangku\n
+            Entah apa yang kan terjadi hingga ku tua\n
+            Namun khawatirku kalah dengan bahagia\n
+            Takut selalu hadir kala kutatap senja\n
+            Namun satu titik hadir di ujung langit\n
+            Selamat datang di bumi bintang kecilku\n
+            Kau warnai senja dihari ini\n
+            Kau tuliskan aksara di langit senja\n
+            Dan takkan mampu diriku tanpa ada kamu\n
+            Terus teranglah bintangku\n
+            Terus teranglah bintangku\n
+            Terus teranglah bintangku\n
+            Takut selalu hadir kala kutatap senja\n
+            Namun satu titik hadir di ujung langit\n
+            Selamat datang di bumi bintang kecilku\n
+            Kau warnai senja dihari ini\n
+            Kau tuliskan aksara di langit senja\n
+            Dan takkan mampu diriku tanpa ada kamu\n
+            Dan takkan mampu diriku tanpa ada kamu\n
+            Terus teranglah bintangku\n
+            Terus teranglah bintangku\n
+            Terus teranglah bintangku\n
+        </item>
+        <item>
+            Georgia, wrap me up in all your\n
+            I want you in my arms\n
+            Oh, let me hold you\n
+            I\'ll never let you go again like I did\n
+            Oh, I used to say\n
+
+            I would never fall in love again until I found her\n
+            I said, "\I would never fall unless it's you I fall into\"\n
+            I was lost within the darkness, but then I found her\n
+            I found you\n
+
+            Georgia pulled me in, I asked to\n
+            Love her once againv
+            You fell, I caught you\n
+            I\'ll never let you go again like I did\n
+            Oh, I used to say\n
+
+            I would never fall in love again until I found her\n
+            I said, "\I would never fall unless it\'s you I fall into\"\n
+            I was lost within the darkness, but then I found her\n
+            I found you\n
+
+            I would never fall in love again until I found her\n
+            I said, "\I would never fall unless it\'s you I fall into\"\n
+            I was lost within the darkness, but then I found her\n
+            I found you\n
+        </item>
+    </string-array>
+</resources>
